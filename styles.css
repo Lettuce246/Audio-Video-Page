@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+html {
+    width: 100%;
+    height: 100%;
+}
+
 body {
     background-color: rgb(9, 36, 95);
 }
@@ -43,5 +48,6 @@ Audio {
     margin: 0 auto;
     padding: 3px;
 }
+
 
 }
