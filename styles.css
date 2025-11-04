@@ -30,24 +30,25 @@ Audio {
 @media screen and (max-width: 700px) {
 
 h1 {
-    font-size: 1.5em;
+    font-size: 1.1em;
 }
 
 h3 {
-    font-size: 1em;
+    font-size: 0.8em;
 }
 
 video {
     display: block;
     margin: 0 auto;
-    padding: 3px;
+    padding: 2px;
 }
 
 Audio {
     display: block;
     margin: 0 auto;
-    padding: 3px;
+    padding: 2px;
 }
 
 
 }
+
